@@ -1,0 +1,34 @@
+{
+  "name": "get-cron",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Convert JavaScript dates into cron expressions without memorizing cron syntax.",
+  "main": "./index.js",
+  "exports": {
+    ".": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victusen/get-cron-package.git"
+  },
+  "homepage": "https://github.com/victusen/get-cron-package#README.md",
+  "keywords": [
+    "cronify",
+    "get-cron",
+    "cron job",
+    "cron",
+    "node-cron",
+    "cron expressions",
+    "parse",
+    "date", "datetime"
+  ],
+  "author": "Victor Usen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/victusen/get-cron-package/issues"
+  } 
+}
