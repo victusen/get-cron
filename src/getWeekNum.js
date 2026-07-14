@@ -16,8 +16,8 @@ export default function getWeekNum(day) {
     case "Saturday":
       return 6;
     default:
-      throw new Error("Invalid weekday - check the result you got.")
+      throw new Error("So sorry - Invalid weekday")
   }
 }
 
-// Note: getWeekNum can be replaced entirely by .getDay() 
+// Note: getWeekNum can be replaced entirely with .getDay() 

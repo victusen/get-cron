@@ -25,7 +25,7 @@
 
 # Start afresh cleaner
 # Dependencies
-**/node_modules/
+# **/node_modules/
 **/bower_components/
 **/vendor/
 

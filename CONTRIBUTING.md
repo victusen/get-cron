@@ -1,7 +1,14 @@
-Fork
 
-Create branch
+1. Fork the repository.
 
-Commit
+2. Create a feature branch.
 
-Open PR
+3. Commit your changes.
+
+4. Push your branch.
+
+5. Open a Pull Request.
+
+
+Contributions are welcome. 
+Feel free to open an issue or submit a Pull Request.
