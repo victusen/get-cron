@@ -1,6 +1,6 @@
 {
   "name": "get-cron",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "type": "module",
   "description": "Convert dates into cron expressions. Skip the syntax, just pass a date.",
   "main": "./index.js",
@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/victusen/get-cron-package",
   "bugs": {
-    "url": "https://github.com/victusen/get-cron-package/issues" 
+    "url": "https://github.com/victusen/get-cron-package/issues"
   },
   "files": [
     "index.js",
@@ -34,7 +34,7 @@
     "node-cron",
     "cron expressions",
     "parse",
-    "date", 
+    "date",
     "datetime"
   ],
   "engines": {
@@ -43,4 +43,3 @@
   "author": "Victor Usen",
   "license": "MIT"
 }
-
