@@ -10,7 +10,6 @@ export default function parseDate(dateStr) {
     throw new Error("Invalid ISO date. This package requires all dates to be in ISO format for simplicity and consistency.")    
     // throw new Error("Invalid ISO date. Expected: YYYY-MM-DDTHH:mm or YYYY-MM-DDTHH:mmZ")
   }
-  }
   
   const d = new Date(dateStr);
   
